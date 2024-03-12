@@ -1,0 +1,86 @@
+.bg-container {
+    background-image: linear-gradient(to right, red, blue);
+    background-size: cover;
+
+}
+
+.calculator-image {
+    height: 55vh;
+    margin: 10px;
+}
+
+.calculator-container {
+    background-color: gray;
+    border-radius: 10px;
+    margin: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.number {
+    font-family: "caveat";
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    border-style: solid;
+    border-width: 8px;
+    border-radius: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    margin: 10px;
+}
+
+.operator {
+    font-family: "caveat";
+    font-size: 30px;
+    color: black;
+    font-weight: 500;
+
+}
+
+.user-input {
+    text-align: center;
+    color: #323f4b;
+    background-color: #cbd2d9;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    width: 142px;
+    height: 60px;
+    border-style: solid;
+    border-width: 8px;
+    border-color: #e4e7eb;
+    border-radius: 12px;
+    margin: 20px;
+}
+
+.btn {
+    font-family: "Lobster";
+    font-size: 25px;
+    font-weight: bold;
+    font-style: solid;
+    color: black;
+    background-color: skyblue;
+    border-width: 2px;
+    border-radius: 5px;
+
+    margin: 10px;
+}
+
+.game-result {
+    color: #ffffff;
+    background-color: red;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 500;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.button-container {
+    background-image: linear-gradient(to right, red, orange, green, grey, blue, black);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
